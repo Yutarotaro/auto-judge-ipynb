@@ -1,7 +1,8 @@
 import streamlit as st
 import time
 from multiapp import MultiApp
-from apps import index, config
+from apps import index
+import config
 
 # config
 st.set_page_config(
