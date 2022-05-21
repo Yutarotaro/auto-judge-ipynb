@@ -1,0 +1,5 @@
+streamlit
+watchdog 
+matplotlib 
+click
+streamlit-multipage
